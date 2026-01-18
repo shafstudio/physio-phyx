@@ -38,7 +38,7 @@ export default function AboutPhilosophy() {
             </h2>
             <div className="space-y-6 text-base md:text-lg leading-loose font-light text-gray-600">
               <p>
-                At PhysioLife, we believe that pain is often a symptom of a larger story your body is trying to tell. Standard treatments often focus solely on the &apos;where&apos;—where it hurts.
+                At PhysioPhyx, we believe that pain is often a symptom of a larger story your body is trying to tell. Standard treatments often focus solely on the &apos;where&apos;—where it hurts.
               </p>
               <p>We focus on the &apos;why&apos;.</p>
               <p>

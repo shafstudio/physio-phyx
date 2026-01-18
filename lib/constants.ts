@@ -75,7 +75,7 @@ export const SERVICES: ServiceDetail[] = [
       ],
     },
     testimonial: {
-      quote: "After tearing my ACL, I thought my soccer days were over. The team at PhysioLife didn't just rehab my knee; they built me back stronger than before. I'm playing pain-free for the first time in years.",
+      quote: "After tearing my ACL, I thought my soccer days were over. The team at PhysioPhyx didn't just rehab my knee; they built me back stronger than before. I'm playing pain-free for the first time in years.",
       name: "Michael T.",
       role: "Professional Soccer Player",
       image: "https://lh3.googleusercontent.com/aida-public/AB6AXuB_I2a9H_XSSvugtueP17rjcCmWzDFP332TcdvrRWPUL9xz_BG3b8G82-T08_GnTUvynC7SB4jfxo9p3ZXwNAE5evHnObfCJZh_LPdZkOPtrbXKZUHQHau1GSZpu7mlVisSPTuoCkEHlc1mDZSXXbINK5zflaHj5ZYilOh0Mv8ONKyT-PXuXj4kEjiSXf73ZF33c-eqCc9CXAmwH6P3XhSKitFvnQfFomy6QJs5tEEDgzRUvSdpyWafNQU9QJJhOeelbjipyM6L_y0",

@@ -18,7 +18,7 @@ export default function AboutMission() {
           <span className="text-primary font-bold text-sm tracking-widest uppercase mb-4">Our Mission</span>
           <h2 className="text-3xl font-bold text-[#1c140d] mb-6">Restoring confidence through movement.</h2>
           <p className="text-gray-600 mb-8 font-light leading-relaxed">
-            Established in 2012, PhysioLife began with a simple premise: physiotherapy should be personal, not transactional. We started in a small one-room clinic and have grown into a comprehensive rehabilitation center, but our core values remain the same.
+            Established in 2012, PhysioPhyx began with a simple premise: physiotherapy should be personal, not transactional. We started in a small one-room clinic and have grown into a comprehensive rehabilitation center, but our core values remain the same.
           </p>
           <ul className="space-y-4">
             <li className="flex items-start gap-3">

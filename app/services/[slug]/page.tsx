@@ -26,12 +26,12 @@ export async function generateMetadata({ params }: ServicePageProps) {
 
   if (!service) {
     return {
-      title: "Service Not Found - PhysioLife",
+      title: "Service Not Found - PhysioPhyx",
     };
   }
 
   return {
-    title: `${service.subtitle} - PhysioLife`,
+    title: `${service.subtitle} - PhysioPhyx`,
     description: service.description,
   };
 }
