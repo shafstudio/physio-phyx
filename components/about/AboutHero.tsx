@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function AboutHero() {
   return (
-    <section className="relative w-full py-20 lg:py-32 bg-white">
+    <section className="relative w-full pt-32 pb-20 lg:pt-40 lg:pb-32 bg-white">
       <div className="mx-auto max-w-7xl px-6 lg:px-12">
         <div className="grid gap-16 lg:grid-cols-2 lg:gap-24 items-center">
           <div className="flex flex-col gap-8 order-2 lg:order-1">

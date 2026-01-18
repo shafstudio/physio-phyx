@@ -12,12 +12,12 @@ const contactInfo: ContactInfo[] = [
   {
     icon: "location_on",
     title: "Visit Us",
-    lines: ["123 Wellness Boulevard, Suite 100", "Melbourne, VIC 3000"],
+    lines: ["123 Phyx Road, Bankstown", "Sydney, NSW 2200"],
   },
   {
     icon: "mail",
     title: "Contact",
-    lines: ["hello@physiolife.com", "+61 (03) 9123 4567"],
+    lines: ["hello@physiophyx.com", "+61 (03) 9123 4567"],
   },
   {
     icon: "schedule",

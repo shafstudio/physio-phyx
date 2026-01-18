@@ -46,7 +46,7 @@ export default function ServicePage({ params }: ServicePageProps) {
 
   return (
     <>
-      <Navbar variant="solid" />
+      <Navbar />
       <ServiceHero
         title={service.title}
         subtitle={service.subtitle}

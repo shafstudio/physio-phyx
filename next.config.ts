@@ -10,11 +10,6 @@ const nextConfig: NextConfig = {
       },
     ],
   },
-  experimental: {
-    turbo: {
-      root: "/home/ad_shaf/Projects/shafstudio/physio-phyx",
-    },
-  },
 };
 
 export default nextConfig;

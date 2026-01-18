@@ -17,22 +17,19 @@ export default function About() {
       <div className="container mx-auto px-6 md:px-10">
         <div className="flex flex-col-reverse lg:flex-row gap-16 items-center">
           <AnimatedSection className="w-full lg:w-1/2">
-            <h4 className="text-primary font-bold uppercase tracking-widest text-sm mb-3">
-              About the Expert
-            </h4>
             <h2 className="text-3xl md:text-5xl font-bold text-[#1c140d] mb-6 leading-tight">
-              Meet Dr. Alex Mercer
+              Meet Dr. Naazil Khan
             </h2>
             <div className="w-20 h-1 bg-primary mb-8"></div>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              With over 15 years of clinical experience, Dr. Mercer specializes in
+              With over 15 years of clinical experience, Dr. Khan specializes in
               sports rehabilitation and chronic pain management. His approach
               combines evidence-based techniques with a compassionate,
               patient-centered philosophy.
             </p>
             <p className="text-gray-600 text-lg leading-relaxed mb-8">
               Whether you are an elite athlete recovering from an injury or
-              someone struggling with daily back pain, Dr. Mercer creates
+              someone struggling with daily back pain, Dr. Khan creates
               personalized treatment plans that focus on long-term wellness.
             </p>
             <div className="flex flex-col sm:flex-row gap-8 mb-8 border-t border-gray-100 pt-8">
@@ -51,8 +48,10 @@ export default function About() {
               className="inline-flex items-center gap-2 text-[#1c140d] font-bold border-b-2 border-primary pb-1 hover:text-primary transition-colors"
               href="/about"
             >
-              View Credentials
-              <span className="material-symbols-outlined text-sm">arrow_forward</span>
+              Learn More
+              <span className="material-symbols-outlined text-sm">
+                arrow_forward
+              </span>
             </Link>
           </AnimatedSection>
           <AnimatedSection className="w-full lg:w-1/2 relative" delay={0.2}>

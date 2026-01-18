@@ -8,7 +8,7 @@ interface ServiceContentProps {
 
 export default function ServiceContent({ service }: ServiceContentProps) {
   return (
-    <section className="max-w-[1280px] mx-auto px-4 md:px-10 py-8">
+    <section className="max-w-7xl mx-auto px-4 md:px-10 py-8">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
         {/* What to Expect */}
         <div className="md:col-span-2 lg:col-span-2 xl:col-span-2 p-6 bg-white border border-gray-100">
@@ -24,7 +24,7 @@ export default function ServiceContent({ service }: ServiceContentProps) {
               >
                 <div className="shrink-0 mt-1">
                   <div className="size-5 bg-primary flex items-center justify-center text-text-main">
-                    <span className="material-symbols-outlined text-sm font-bold">
+                    <span className="material-symbols-outlined text-white text-sm font-bold">
                       check
                     </span>
                   </div>
@@ -69,8 +69,8 @@ export default function ServiceContent({ service }: ServiceContentProps) {
                   {index === 0
                     ? "person"
                     : index === 1
-                    ? "receipt_long"
-                    : "event_available"}
+                      ? "receipt_long"
+                      : "event_available"}
                 </span>
                 <span>{feature}</span>
               </div>

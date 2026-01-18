@@ -9,7 +9,7 @@ import Footer from "@/components/Footer";
 export default function AboutPage() {
   return (
     <>
-      <Navbar variant="solid" />
+      <Navbar />
       <AboutHero />
       <StatsBar />
       <AboutPhilosophy />

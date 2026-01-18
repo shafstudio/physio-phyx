@@ -21,7 +21,7 @@ export default function ServiceHero({
   category,
 }: ServiceHeroProps) {
   return (
-    <section className="relative w-full h-[500px] mb-12 overflow-hidden">
+    <section className="relative w-full h-[500px] mt-24 mb-12 overflow-hidden">
       <div className="absolute inset-0 z-10">
         <Image
           alt={subtitle}
