@@ -37,8 +37,7 @@ export default function AboutHero() {
               <Image
                 alt="Dr. Naazil Khan engaging in warm, attentive conversation with a patient in a calming clinic environment."
                 className="h-full w-full object-cover"
-                src="/about-us-page-image.jpg
-                "
+                src="/about-us-page-image.jpg"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
               />
