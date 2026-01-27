@@ -188,6 +188,158 @@ export const SERVICES: ServiceDetail[] = [
       },
     ],
   },
+  {
+    id: "chronic-back-pain",
+    slug: "chronic-back-pain",
+    title: "RECLAIM YOUR COMFORT",
+    subtitle: "Chronic Back Pain Management",
+    description: "Evidence-based strategies to reduce pain intensity, improve function, and prevent recurrence through comprehensive assessment and targeted treatment.",
+    heroImage: "https://lh3.googleusercontent.com/aida-public/AB6AXuCLODAuceZdYPufRmmge3L5vL-lwWuL38j3Hr5wCs3IOTbzBFrXv9YdtRJRVV1kZJOeugPCiWrTyt-X8OxKs-yNxRuVYF8vCOdBzWTc_Ccoa2bNrbiebT-lm8C9OsiS5Qskz7GGEaUuUKFdK5OqVmhihYkPRS0XCjcnxIjFs2jJ8NPgmNQrV9YB6TGXVUfQQrIZLc8VgJLiBWHDP7MBRqEXnya8mCSnuE2qsD3jsqHZ-rJGiiTHZA7IgvC_FJdoaZySaivzMpv4tAA",
+    duration: "45 - 60 Min Sessions",
+    insurance: true,
+    category: "Pain Management",
+    whatToExpect: [
+      {
+        title: "Detailed Assessment",
+        description: "Thorough evaluation of your spine, posture, movement patterns, and lifestyle factors contributing to your pain.",
+      },
+      {
+        title: "Pain Education",
+        description: "Understanding the science behind chronic pain helps reduce fear and empowers you to take control of your recovery.",
+      },
+      {
+        title: "Manual Therapy",
+        description: "Hands-on techniques including soft tissue mobilization and joint manipulation to reduce pain and restore movement.",
+      },
+      {
+        title: "Core Strengthening",
+        description: "Targeted exercises to build stability in your deep core muscles, supporting your spine long-term.",
+      },
+    ],
+    pricing: {
+      title: "Back Pain Package",
+      price: 110,
+      duration: "60 Minutes",
+      features: [
+        "Comprehensive spine assessment",
+        "Home exercise program included",
+        "Ergonomic workplace evaluation",
+      ],
+    },
+    testimonial: {
+      quote: "I've dealt with lower back pain for over 10 years. After just 6 weeks at PhysioPhyx, I'm finally sleeping through the night and can play with my grandkids again. They taught me how to manage my pain, not just mask it.",
+      name: "Sarah M.",
+      role: "Office Manager",
+      image: "https://lh3.googleusercontent.com/aida-public/AB6AXuB_I2a9H_XSSvugtueP17rjcCmWzDFP332TcdvrRWPUL9xz_BG3b8G82-T08_GnTUvynC7SB4jfxo9p3ZXwNAE5evHnObfCJZh_LPdZkOPtrbXKZUHQHau1GSZpu7mlVisSPTuoCkEHlc1mDZSXXbINK5zflaHj5ZYilOh0Mv8ONKyT-PXuXj4kEjiSXf73ZF33c-eqCc9CXAmwH6P3XhSKitFvnQfFomy6QJs5tEEDgzRUvSdpyWafNQU9QJJhOeelbjipyM6L_y0",
+    },
+    benefits: [
+      {
+        icon: "healing",
+        title: "Pain Reduction",
+        description: "Significant decrease in pain intensity through evidence-based manual therapy and therapeutic exercises.",
+      },
+      {
+        icon: "fitness_center",
+        title: "Improved Function",
+        description: "Regain the ability to perform daily activities without fear of triggering pain episodes.",
+      },
+      {
+        icon: "psychology",
+        title: "Long-term Management",
+        description: "Learn self-management strategies to prevent flare-ups and maintain your progress independently.",
+      },
+    ],
+    faqs: [
+      {
+        question: "How long until I see improvement?",
+        answer: "Many patients notice some improvement within 2-3 sessions. However, chronic pain that has persisted for months or years typically requires 8-12 weeks of consistent treatment for lasting results.",
+      },
+      {
+        question: "Will I need surgery?",
+        answer: "Most cases of chronic back pain can be managed successfully without surgery. We'll work with you to exhaust conservative treatment options first, and will coordinate with your physician if surgical consultation becomes necessary.",
+      },
+      {
+        question: "Can I still exercise with back pain?",
+        answer: "Absolutely! In fact, appropriate exercise is one of the most effective treatments for chronic back pain. We'll guide you on which activities to modify and which to continue, plus teach you exercises specifically for your condition.",
+      },
+    ],
+  },
+  {
+    id: "shoulder-rehab",
+    slug: "shoulder-rehab",
+    title: "RESTORE FULL RANGE",
+    subtitle: "Shoulder Rehabilitation",
+    description: "Specialized rotator cuff therapy and shoulder rehabilitation programs to restore strength, mobility, and function whether recovering from injury or surgery.",
+    heroImage: "https://lh3.googleusercontent.com/aida-public/AB6AXuC3UHCrz4-vzPN3u0vKcjYY8qxYX_p9sUb5d_PkisYyMNAfJmDk-FC3eCtBS2oynk8pl0w4y3rgEUG2E_BHkHni6LJCbxImzoPLeBRMJApErNusPL3-jjlJUeaKhfT8BgcPuFf6H8ZNgh0GvFmGXoLynRfLxmFsoqsHgogpt79J7dGHAXTYiXXPbTlARvIkA_cOUwNX50z5C5Y2qsZBSHXXdhqvp0BnpvFTMrwJ-m4_K47nHctqqizzQG23nxCesIKtm8yJlJGXIOM",
+    duration: "45 Min Sessions",
+    insurance: true,
+    category: "Post-Injury",
+    whatToExpect: [
+      {
+        title: "Shoulder Evaluation",
+        description: "Comprehensive assessment of shoulder mechanics, rotator cuff strength, and scapular stability.",
+      },
+      {
+        title: "Range of Motion Therapy",
+        description: "Gentle mobilization techniques to restore pain-free movement in all directions.",
+      },
+      {
+        title: "Rotator Cuff Strengthening",
+        description: "Progressive resistance training targeting the four rotator cuff muscles for optimal shoulder stability.",
+      },
+      {
+        title: "Functional Training",
+        description: "Sport or work-specific exercises to ensure your shoulder can handle real-world demands.",
+      },
+    ],
+    pricing: {
+      title: "Shoulder Care Program",
+      price: 115,
+      duration: "45 Minutes",
+      features: [
+        "Rotator cuff assessment",
+        "Personalized exercise videos",
+        "Activity modification guidance",
+      ],
+    },
+    testimonial: {
+      quote: "After rotator cuff surgery, I couldn't even lift my arm. The therapists at PhysioPhyx were patient and encouraging through every phase. Now I'm back to swimming and even have better form than before my injury!",
+      name: "David L.",
+      role: "Competitive Swimmer",
+      image: "https://lh3.googleusercontent.com/aida-public/AB6AXuB_I2a9H_XSSvugtueP17rjcCmWzDFP332TcdvrRWPUL9xz_BG3b8G82-T08_GnTUvynC7SB4jfxo9p3ZXwNAE5evHnObfCJZh_LPdZkOPtrbXKZUHQHau1GSZpu7mlVisSPTuoCkEHlc1mDZSXXbINK5zflaHj5ZYilOh0Mv8ONKyT-PXuXj4kEjiSXf73ZF33c-eqCc9CXAmwH6P3XhSKitFvnQfFomy6QJs5tEEDgzRUvSdpyWafNQU9QJJhOeelbjipyM6L_y0",
+    },
+    benefits: [
+      {
+        icon: "rotate_right",
+        title: "Full Range Motion",
+        description: "Restore complete overhead reach and rotation without pain or compensation.",
+      },
+      {
+        icon: "sports",
+        title: "Return to Activity",
+        description: "Safely return to sports, work tasks, and daily activities that require shoulder strength.",
+      },
+      {
+        icon: "verified",
+        title: "Injury Prevention",
+        description: "Build balanced shoulder strength to prevent re-injury and future problems.",
+      },
+    ],
+    faqs: [
+      {
+        question: "How soon after surgery can I start physio?",
+        answer: "Most patients begin gentle range of motion exercises within days of surgery, with your surgeon's approval. Active strengthening typically begins 6-8 weeks post-op. We'll coordinate directly with your surgeon.",
+      },
+      {
+        question: "What if my shoulder 'clicks' or 'pops'?",
+        answer: "Some clicking is normal and harmless. However, if it's accompanied by pain, weakness, or catching sensations, we'll evaluate for underlying issues like labral tears or tendinitis and adjust treatment accordingly.",
+      },
+      {
+        question: "Can I avoid surgery with physio?",
+        answer: "Many shoulder conditions, including some rotator cuff tears, respond well to conservative treatment. Studies show that up to 80% of partial rotator cuff tears can be managed successfully with physiotherapy alone.",
+      },
+    ],
+  },
 ];
 
 // Helper function to get service by slug

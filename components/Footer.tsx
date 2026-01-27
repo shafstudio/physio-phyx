@@ -27,7 +27,7 @@ export default function Footer() {
             </a>
           </div>
           <div className="text-xs text-gray-400">
-            ©2026 PhysioPhyx. All rights reserved.
+            ©{new Date().getFullYear()} PhysioPhyx. All rights reserved.
           </div>
         </div>
       </div>

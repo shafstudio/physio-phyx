@@ -74,7 +74,10 @@ export default function HowWeHelp() {
                 />
               </div>
             </Link>
-            <div className="bg-white p-8 flex flex-col justify-between border border-gray-100 hover:border-primary/30 transition-colors group h-full">
+            <Link
+              href="/services/chronic-back-pain"
+              className="bg-white p-8 flex flex-col justify-between border border-gray-100 hover:border-primary/30 transition-colors group h-full"
+            >
               <div>
                 <div className="w-10 h-10 bg-primary/10 flex items-center justify-center text-primary mb-4 rounded-none group-hover:bg-primary group-hover:text-white transition-colors">
                   <span className="material-symbols-outlined">
@@ -98,8 +101,11 @@ export default function HowWeHelp() {
                   sizes="(max-width: 640px) 100vw, 25vw"
                 />
               </div>
-            </div>
-            <div className="sm:col-span-2 bg-[#1c140d] p-8 flex flex-row items-center gap-6 group relative overflow-hidden">
+            </Link>
+            <Link
+              href="/services/shoulder-rehab"
+              className="sm:col-span-2 bg-[#1c140d] p-8 flex flex-row items-center gap-6 group relative overflow-hidden"
+            >
               <div className="absolute inset-0 opacity-20 z-0">
                 <Image
                   className="w-full h-full object-cover"
@@ -124,7 +130,7 @@ export default function HowWeHelp() {
                   </span>
                 </span>
               </div>
-            </div>
+            </Link>
           </div>
         </div>
       </div>

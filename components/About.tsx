@@ -56,11 +56,11 @@ export default function About() {
           </AnimatedSection>
           <AnimatedSection className="w-full lg:w-1/2 relative" delay={0.2}>
             <div className="absolute bottom-4 -left-4 w-full h-full border-2 border-primary z-0 hidden md:block"></div>
-            <div className="relative z-10 aspect-[4/5] grayscale hover:grayscale-0 transition-all duration-700">
+            <div className="relative z-10 aspect-4/5 transition-all duration-700">
               <Image
-                alt="Portrait of Dr. Alex Mercer smiling in professional attire"
+                alt="Portrait of Dr. Khan smiling in professional attire"
                 className="w-full h-full object-cover shadow-none rounded-none"
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuAFLYi-5-CO_0EEhh3yLpuYaBcXiFufbyhPUjSNuN1CO2xsWPEbppbowVfX1byLS3VAcq-DciVzjq2wRnBps8WN6L2GlwljN1Qd3geJ24UZKpGWFgxaoHH0519h9AkbW_I1bwmwL5uLUq09NocWTYNxQxaveEXxjLTdyqU4eKoG58hONdXPlkJO37mhGCKeaSuc5yWnMNd-IW-6_mWlkGUObZc6lk3vQskT_bvczE2su2aZcEzN153VQHXnZ5MZeRfUv7lo-01PwoI"
+                src="/Profile-Image.jpg"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
               />
